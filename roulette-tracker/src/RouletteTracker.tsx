@@ -1,0 +1,1 @@
+// Placeholder, actual canvas content will be fetched next.
